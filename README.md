@@ -10,6 +10,14 @@ This repository contains detailed writeups and solutions for various Root-Me cha
 - 📧 Email: [redaelbettioui@gmail.com](mailto:redaelbettioui@gmail.com)
 - 💼 LinkedIn: [Reda El Bettioui](https://www.linkedin.com/in/reda-el-bettioui/)
 
+## Quick Download
+
+<div align="center">
+  <a href="Root_Me_Documentation.pdf">
+    <img src="https://img.shields.io/badge/Download-Documentation%20PDF-blue?style=for-the-badge&logo=adobe-acrobat-reader" alt="Download PDF" />
+  </a>
+</div>
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
