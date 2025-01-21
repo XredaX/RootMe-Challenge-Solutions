@@ -1,7 +1,9 @@
 # Root-Me Challenge Solutions
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=XredaX.RootMe-Challenge-Solutions" alt="visitors" />
+  
+  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FXredaX%2FRootMe-Challenge-Solutions&label=VISITORS&countColor=%23263759)
+  
 </div>
 
 This repository contains detailed writeups and solutions for various Root-Me challenges. The documentation includes step-by-step explanations of how to approach and solve different challenges on the Root-Me platform.
