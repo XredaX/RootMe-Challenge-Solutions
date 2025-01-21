@@ -1,5 +1,9 @@
 # Root-Me Challenge Solutions
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=XredaX.RootMe-Challenge-Solutions" alt="visitors" />
+</div>
+
 This repository contains detailed writeups and solutions for various Root-Me challenges. The documentation includes step-by-step explanations of how to approach and solve different challenges on the Root-Me platform.
 
 > **Note**: These are for educational purposes only. Make sure to attempt the challenges yourself before consulting these solutions.
