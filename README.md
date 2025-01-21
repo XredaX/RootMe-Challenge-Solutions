@@ -4,6 +4,12 @@ This repository contains detailed writeups and solutions for various Root-Me cha
 
 > **Note**: These are for educational purposes only. Make sure to attempt the challenges yourself before consulting these solutions.
 
+## Author
+
+**Reda El Bettioui**
+- 📧 Email: [redaelbettioui@gmail.com](mailto:redaelbettioui@gmail.com)
+- 💼 LinkedIn: [Reda El Bettioui](https://www.linkedin.com/in/reda-el-bettioui/)
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
